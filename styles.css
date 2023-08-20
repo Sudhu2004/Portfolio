@@ -1,0 +1,84 @@
+body {
+    background-image: url(images/background-image.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.nav-link {
+    position: relative;
+    left: 850px;
+    color:black;
+    text-shadow: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.nav-link:hover {
+    color:red;
+}
+
+.img-fluid {
+    width: 500px;
+    height: 500px;
+    border-radius: 2rem;
+}
+
+.aboutcol {
+    margin-top: 100px;
+    font-size: 150%;
+}
+
+.edu-cards1 {
+    position: relative;
+    left:7%;
+}
+
+.edu-cards2 {
+    position: relative;
+    left:7%;
+}
+
+.edu-cards3 {
+    position: relative;
+    left:7%;
+}
+
+
+li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.skills-image {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: 60px;
+}
+
+
+.handr {
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.handr td {
+    border: 1px solid black;
+    padding: 8px;
+    width: 2%;
+    text-align: left;
+}
+
+
+
+.footer-icon {
+    margin: 20px 10px;
+}
+
+
+
+
+
